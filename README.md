@@ -1,5 +1,5 @@
-Sublime-Text-Settings
-=====================
+Sublime-Text-Things
+===================
 
 This repo has things for my personal Sublime Text from prefs to quick keys I use often and would like to remember.
 
