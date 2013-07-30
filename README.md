@@ -66,6 +66,22 @@ This repo has things for my personal Sublime Text from prefs to quick keys I use
         <td>CMD + CTRL + Up/Down Arrows</td>
         <td>Moves line that cursor is on up or down in source code</td>
     </tr>
+    <tr>
+        <td>CMD + ]</td>
+        <td>Indents code</td>
+    </tr>
+    <tr>
+        <td>CMD + [</td>
+        <td>Unindent code</td>
+    </tr>
+    <tr>
+        <td>CMD + SHIFT + F</td>
+        <td>Find in whole project</td>
+    </tr>
+    <tr>
+        <td>SHIFT + CTRL + K</td>
+        <td>Deletes current line cursor is on</td>
+    </tr>
 </table>
 
 ## Tips
