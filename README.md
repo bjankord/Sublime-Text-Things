@@ -140,6 +140,11 @@ jQuery Snippets, CSS snippets, Sass snippets.
 * Sidebar Enhancements plugin
 * SublimeLinter plugin
 * DocBlockr plugin
+* Emmet
+* Emmet Livestyle (Not Installed, Havn't tried yet)
+* FileDiffs
+* Gist
+* Git
 * LiveReload plugin (Not Installed, Havn't tried yet)
 * Sublime css auto comments (Installed, Havn't tried yet)
   * https://github.com/sc8696/sublime-css-auto-comments
