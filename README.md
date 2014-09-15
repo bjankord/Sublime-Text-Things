@@ -135,6 +135,7 @@ jQuery Snippets, CSS snippets, Sass snippets.
 ## UI Themese
 
 [http://itsthatguy.com/post/70191573560/sublime-text-theme-itg-flat](http://itsthatguy.com/post/70191573560/sublime-text-theme-itg-flat)
+[Seti UI](https://sublime.wbond.net/packages/Seti_UI)
 
 ## Color Schemes
 
