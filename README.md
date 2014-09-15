@@ -132,19 +132,26 @@ jQuery Snippets, CSS snippets, Sass snippets.
 
 `lorem20` use for display lorem ipsum with x about of words
 
+## UI Themese
+
+[http://itsthatguy.com/post/70191573560/sublime-text-theme-itg-flat](http://itsthatguy.com/post/70191573560/sublime-text-theme-itg-flat)
+
+## Color Schemes
+
+[https://github.com/daylerees/colour-schemes](https://github.com/daylerees/colour-schemes)
+
 ## Plugins
 
-* Sidebar Enhancements plugin
-* Tag
-* Emmet
-* Emmet Livestyle (Not Installed, Havn't tried yet)
-* SublimeLinter plugin
-* DocBlockr plugin
-* FileDiffs
-* Gist
-* Git
-* LiveReload plugin (Not Installed, Havn't tried yet)
-* Sublime css auto comments (Installed, Havn't tried yet)
-  * https://github.com/sc8696/sublime-css-auto-comments
-* Sublime list stylesheet vars (Not Installed, Havn't tried yet)
-  * https://github.com/MaciekBaron/sublime-list-stylesheet-vars
+* [Sidebar Enhancements plugin](https://github.com/titoBouzout/SideBarEnhancements)
+* [Tag](https://github.com/SublimeText/Tag)
+* [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+* [GitGutter](https://github.com/jisaacks/GitGutter)
+* [Emmet](http://emmet.io/blog/sublime-text-3/)
+* [Emmet Livestyle (Not Installed, Havn't tried yet)](http://livestyle.emmet.io/)
+* [SublimeLinter plugin](https://github.com/SublimeLinter/SublimeLinter3)
+* [DocBlockr plugin](https://github.com/spadgos/sublime-jsdocs)
+* [FileDiffs](https://github.com/colinta/SublimeFileDiffs)
+* [Gist](https://github.com/condemil/Gist)
+* [Sublime Text Git](https://github.com/kemayo/sublime-text-git)
+* [Sublime css auto comments (Installed, Havn't tried yet)](https://github.com/sc8696/sublime-css-auto-comments)
+* [Sublime list stylesheet vars (Not Installed, Havn't tried yet)](https://github.com/MaciekBaron/sublime-list-stylesheet-vars)
