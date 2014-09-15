@@ -142,6 +142,8 @@ jQuery Snippets, CSS snippets, Sass snippets.
 
 ## Plugins
 
+* [Sass Syntax Highlighting](https://sublime.wbond.net/packages/Sass)
+* [LESS Syntax Highlighting](https://sublime.wbond.net/packages/LESS)
 * [Sidebar Enhancements plugin](https://github.com/titoBouzout/SideBarEnhancements)
 * [Tag](https://github.com/SublimeText/Tag)
 * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
