@@ -134,14 +134,12 @@ jQuery Snippets, CSS snippets, Sass snippets.
 
 ## Plugins
 
-* Tag
-* Advanced New File plugin
-  * CMD + OPTION + N: Ability to create new files/folders from within Sublime
 * Sidebar Enhancements plugin
-* SublimeLinter plugin
-* DocBlockr plugin
+* Tag
 * Emmet
 * Emmet Livestyle (Not Installed, Havn't tried yet)
+* SublimeLinter plugin
+* DocBlockr plugin
 * FileDiffs
 * Gist
 * Git
